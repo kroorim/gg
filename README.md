@@ -21,10 +21,6 @@ Run tests:
 pytest
 ```
 
-## Team
-
-- Rauan (Dan) Kudabay
-
 ## Roadmap
 
 - [ ] Define the actual hackathon idea/feature set
