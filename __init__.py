@@ -1,0 +1,1 @@
+"""Hackathon starter app package."""
