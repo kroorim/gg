@@ -1,4 +1,4 @@
-Minimal starter project — a small Flask API to build on during the hackathon.
+Minimal starter project — a small Flask API to build on.
 
 ## What's here
 
