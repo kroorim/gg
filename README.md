@@ -1,5 +1,3 @@
-# Hackathon Starter
-
 Minimal starter project — a small Flask API to build on during the hackathon.
 
 ## What's here
